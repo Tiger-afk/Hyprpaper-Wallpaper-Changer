@@ -1,5 +1,5 @@
 # Hyprpaper-Wallpaper-Changer
-This is a simple random wallpaper changer for hyprpaper coded in bash
+This is a simple random wallpaper changer for hyprpaper.
 
 How To Use:
 1. Firstly, open the script up and at the top change the path of export wallpaper_path="path/to/your/wallpaper/folder" to a folder with your wallpapers.
