@@ -7,7 +7,7 @@ How To Use:
 3. Then add the path to the downloaded template file in the line wal_tpl=$(cat path/to/template/file).
 4. Lastly, change the path of the penultimate line to the path of your hyprpaper config file.
 
-save and run the script and watch your wallpapers instantly change
+save and run the script and watch your wallpaper instantly change
  
 
 
